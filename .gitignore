@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+package-lock.json
+*.sublime-workspace
+*.sublime-project
+values.sql
+pads.env
+pads-distant.env
+public/uploads/
+dep.*
+*.env
+tmp/
+routes/scripts/
